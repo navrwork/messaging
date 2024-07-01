@@ -3,8 +3,9 @@
 ## Rabbit MQ
 
 ### Reference
-* **[ActiveMQ vs RabbitMQ | cloudamqp.com](https://www.cloudamqp.com/blog/activemq-vs-rabbitmq-an-indepth-comparison.html)**
-* **[ActiveMQ vs RabbitMQ | stackshare.io](https://stackshare.io/stackups/activemq-vs-rabbitmq)**
+* [RabbitMQ Tutorials | rabbitmq.com](https://www.rabbitmq.com/tutorials#queue-tutorials)
+* [ActiveMQ vs RabbitMQ | cloudamqp.com](https://www.cloudamqp.com/blog/activemq-vs-rabbitmq-an-indepth-comparison.html)
+* [ActiveMQ vs RabbitMQ | stackshare.io](https://stackshare.io/stackups/activemq-vs-rabbitmq)
 
 ### RabbitMQ Setup
 * Download RabbitMQ image from Docker hub
