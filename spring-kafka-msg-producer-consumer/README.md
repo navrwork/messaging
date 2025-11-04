@@ -15,7 +15,8 @@
 
 ### Commands to run Kafka broker locally
 * Install [Docker Desktop](https://www.docker.com/products/docker-desktop/) on windows.
-* Use [Docker Compose](src/main/resources/docker-compose.yml) to create your Kafka container.
+* Pull latest image from [hub.docker.com](https://hub.docker.com/r/apache/kafka/)
+* Use [Docker Compose](src/main/resources/docker-compose.yml) to create your Kafka container, as mentioned below.
 * Start the Docker Desktop app. Ensure that the Desktop Engine is in Running state. 
 * Open command prompt and navigate to $PROJECT/src/main/resources/ folder. This is where the docker-compose.yml file is present.
 * Execute the below command to run the docker container in detached mode:
